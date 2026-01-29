@@ -12,18 +12,21 @@ We propose CFC-DTRF, a dual-Transformer reconstruction framework guided by cross
 2. SWCA-Transformer (Sliding-Window Content-Attention Transformer): focuses on local detail fidelity and enhances texture sharpness.
 3. MSCA-Transformer (Multi-Scale Color-Attention Transformer): performs multi-scale color correction to mitigate underwater color distortions.
 4. Our method outperforms existing state-of-the-art approaches on multiple datasets, particularly in terms of detail preservation and color accuracy.
+
 📈 Applications
 1. Marine environmental monitoring
 2. Underwater robotic navigation
 3. Underwater scientific imaging and video enhancement
+
 📝 Paper Information
 Title: Cross-layer feature consistency and dual-transformer residual framework for underwater image enhancement
 Journal: Engineering Applications of Artificial Intelligence, Vol. 167, 113972, 2026
 Authors: Xinbin Li, Lei Cheng, Song Han, Jing Yang, Hui Dang, Muge Li
 DOI: https://doi.org/10.1016/j.engappai.2026.113972
 Paper Link: ScienceDirect
+
 BibTeX:
-@article{LI2026113972,
+{@article{LI2026113972,
   title = {Cross-layer feature consistency and dual-transformer residual framework for underwater image enhancement},
   journal = {Engineering Applications of Artificial Intelligence},
   volume = {167},
@@ -34,4 +37,5 @@ BibTeX:
   url = {https://www.sciencedirect.com/science/article/pii/S0952197626002538},
   author = {Xinbin Li and Lei Cheng and Song Han and Jing Yang and Hui Dang and Muge Li},
   keywords = {Underwater image enhancement, Transformer architecture, Color correction, Multi-level supervision}
+}
 }
