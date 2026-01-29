@@ -4,9 +4,11 @@ To address underwater imaging suffers from complex degradations, we propose the 
 📌 CFC-DTRF: Cross-layer Feature Consistency-guided Dual-Transformer Reconstruction Framework for Underwater Image Enhancement
 
 🔍 Background
+
 Due to light scattering and absorption in underwater environments, underwater imaging often suffers from complex degradations such as color cast, blurring, and haze, which severely limit its effectiveness in applications such as ocean exploration, underwater robotics, and environmental monitoring.
 
 🚀 Our Contributions
+
 We propose CFC-DTRF, a dual-Transformer reconstruction framework guided by cross-layer feature consistency, which employs joint constraints in both the feature and pixel domains to effectively decouple content degradation from color degradation and significantly improve both reconstruction quality and computational efficiency. The main contributions are summarized as follows:
 1. Feature-consistency supervision: a multi-stage training scheme that enforces consistency between cross-layer features and visual details.
 2. SWCA-Transformer (Sliding-Window Content-Attention Transformer): focuses on local detail fidelity and enhances texture sharpness.
@@ -14,6 +16,7 @@ We propose CFC-DTRF, a dual-Transformer reconstruction framework guided by cross
 4. Our method outperforms existing state-of-the-art approaches on multiple datasets, particularly in terms of detail preservation and color accuracy.
 
 📈 Applications
+
 1. Marine environmental monitoring
 2. Underwater robotic navigation
 3. Underwater scientific imaging and video enhancement
