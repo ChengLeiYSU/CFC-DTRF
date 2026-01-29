@@ -25,8 +25,8 @@ Authors: Xinbin Li, Lei Cheng, Song Han, Jing Yang, Hui Dang, Muge Li
 DOI: https://doi.org/10.1016/j.engappai.2026.113972
 Paper Link: ScienceDirect
 
-BibTeX:
-{@article{LI2026113972,
+```bibtex
+@article{LI2026113972,
   title = {Cross-layer feature consistency and dual-transformer residual framework for underwater image enhancement},
   journal = {Engineering Applications of Artificial Intelligence},
   volume = {167},
@@ -38,4 +38,4 @@ BibTeX:
   author = {Xinbin Li and Lei Cheng and Song Han and Jing Yang and Hui Dang and Muge Li},
   keywords = {Underwater image enhancement, Transformer architecture, Color correction, Multi-level supervision}
 }
-}
+
