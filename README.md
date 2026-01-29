@@ -19,6 +19,7 @@ We propose CFC-DTRF, a dual-Transformer reconstruction framework guided by cross
 3. Underwater scientific imaging and video enhancement
 
 📝 Paper Information
+
 Title: Cross-layer feature consistency and dual-transformer residual framework for underwater image enhancement
 
 Journal: Engineering Applications of Artificial Intelligence, Vol. 167, 113972, 2026
